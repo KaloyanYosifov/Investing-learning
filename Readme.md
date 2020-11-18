@@ -10,3 +10,6 @@
 ---
 
 - [Calculate small business stock price](https://smallbusiness.chron.com/calculate-companys-stock-price-21802.html#:~:text=To%20calculate%20the%20current%20intrinsic,the%20projected%20earnings%20per%20share)
+
+#### Helps
+- https://redtapepayments.blogspot.com/2020/02/revolut.html

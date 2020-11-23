@@ -13,3 +13,6 @@
 
 #### Helps
 - https://redtapepayments.blogspot.com/2020/02/revolut.html
+
+#### Skillshare
+- https://www.skillshare.com/classes/Investing-Masterclass-Stock-Markets-and-Index-Funds-Learn-to-Invest-SP-500-Diversification/2120386696?via=search-layout-grid
